@@ -6,7 +6,7 @@ using System;
 
 namespace Exo.WebApi.Controllers
 {
-    [Route("api/[controllers]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ProjetosController : ControllerBase
     { 
@@ -15,6 +15,7 @@ namespace Exo.WebApi.Controllers
       {
         _projetoRepository = projetoRepository;
       }
+      
       [HttpGet]
       public IActionResult Lista()
       {
