@@ -539,12 +539,16 @@ C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\ob
 C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Área de Trabalho\API-PRATICA\ATIVIDADE-03\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Exo.WebApi.exe
+C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Exo.WebApi.dll
+C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\appsettings.json
-C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Exo.WebApi.exe
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Exo.WebApi.deps.json
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Exo.WebApi.runtimeconfig.json
-C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Exo.WebApi.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\MessagePack.dll
@@ -573,7 +577,6 @@ C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\b
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
@@ -584,7 +587,6 @@ C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\b
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -604,8 +606,6 @@ C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\b
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
-C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\System.CodeDom.dll
 C:\Users\Manu Alves\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
